@@ -2,7 +2,7 @@
 
 ### Full-Stack Engineer & AI/ML Researcher
 📍 Bengaluru, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/meghana-kb-26b81b363/) • 🌐 [Portfolio](https://github.com/Meghana-kb10) • ✉️ [Email](mailto:meghanakb1005@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/meghana-kb-26b81b363/) • 🌐 [Portfolio](https://github.com/Meghana-kb10) • ✉️ [Email](mailto:kbmeghana1@gmail.com)
 
 ---
 
