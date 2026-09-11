@@ -49,12 +49,6 @@ I build resilient, high-concurrency backend architectures and reactive full-stac
 
 ---
 
-### 📈 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meghana-kb10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Meghana's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghana-kb10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
